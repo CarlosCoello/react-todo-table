@@ -1,0 +1,9 @@
+.fa-pencil:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.fa-times:hover {
+  cursor: pointer;
+  color: red;
+}

@@ -1,0 +1,14 @@
+.form-group {
+  margin-bottom: 0;
+}
+
+.has-feedback .form-control-feedback {
+  top: 0 !important;
+}
+
+.form-control-feedback {
+  position: relative;
+  width: 100%;
+  height: auto;
+  text-align: left;
+}
